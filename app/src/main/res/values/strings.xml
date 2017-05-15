@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">ListAppProduct</string>
+
+    <!-- Кнопки для списка -->
     <string name="addButton">+</string>
     <string name="removeButton">-</string>
+
+    <!-- Элементы меню -->
+    <string name="action_settings">Настройки</string>
+    <string name="save_settings">Сохранить</string>
+    <string name="open_settings">Открыть</string>
 </resources>
