@@ -22,7 +22,7 @@ public class ProductAdapter extends ArrayAdapter<Product> {
 
     //Конструктор
     public ProductAdapter(Context context, int resource, ArrayList<Product> products) {
-        super(context, resource);
+        super(context, resource, products);
         this.productList = products;
         this.layout = resource;
         this.inflater = LayoutInflater.from(context);

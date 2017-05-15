@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ListAppProduct</string>
+    <string name="addButton">+</string>
+    <string name="removeButton">-</string>
 </resources>
